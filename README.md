@@ -160,7 +160,7 @@ const anvesha = {
 
 <a href="https://github.com/sanvesha762-ops/thrylos_auth">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=sanvesha762-ops&repo=thrylos_auth&theme=tokyonight&hide_border=true"/>
+<img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sanvesha762-ops&repo=thrylos_auth&theme=tokyonight&hide_border=true"/>
 
 </a>
 
@@ -204,9 +204,9 @@ const anvesha = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sanvesha762-ops&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sanvesha762-ops&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanvesha762-ops&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sanvesha762-ops&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
